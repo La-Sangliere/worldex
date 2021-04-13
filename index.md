@@ -145,7 +145,7 @@
   [20w]: https://la-sangliere.github.io/worldex-2020
 
   [factbook]: https://www.cia.gov/the-world-factbook
-  [theodora]  http://www.theodora.com
+  [theodora]: http://www.theodora.com
   [umsl]:     http://www.umsl.edu
   [us-gpo]:   https://www.gpo.gov
 
